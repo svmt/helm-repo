@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  argocd-crds:
+  - apiVersion: v2
+    appVersion: v2.11.2
+    created: "2024-06-04T12:28:30.845910455Z"
+    description: A Helm chart for Kubernetes
+    digest: f686636f2930e16ddc43718e59c138ff7da1ec8f2805e5cb78d1c10df55067fc
+    name: argocd-crds
+    type: application
+    urls:
+    - https://github.com/svmt/helm-repo/releases/download/argocd-crds-2.11.2/argocd-crds-2.11.2.tgz
+    version: 2.11.2
+generated: "2024-06-04T12:28:30.845922387Z"
